@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="500" height="500" viewBox="-1 -1 2 2" xmlns="http://www.w3.org/2000/svg">
+        <path d="M 0 -1 
+             A 1,1 0 0,1 0.95 -0.31             L 0,0
+             z" fill="#a52a2a" />
+            <path d="M 0.95 -0.31 
+             A 1,1 0 0,1 0.59 0.81             L 0,0
+             z" fill="#842222" />
+            <path d="M 0.59 0.81 
+             A 1,1 0 0,1 -0.59 0.81             L 0,0
+             z" fill="#631919" />
+            <path d="M -0.59 0.81 
+             A 1,1 0 0,1 -0.95 -0.31             L 0,0
+             z" fill="#421111" />
+            <path d="M -0.95 -0.31 
+             A 1,1 0 0,1 -0 -1             L 0,0
+             z" fill="#210808" />
+    </svg>
