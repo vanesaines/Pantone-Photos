@@ -88,6 +88,25 @@ hr{
     margin-bottom: 10px;
     width: 35%;
     text-align: center;
+
+}
+.banner-three{
+    width: 100%;
+    height: 650px;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    color: white;
+    margin-bottom: 20px;
+    background: url('../images/banner-three.jpeg') no-repeat center center/cover;
+}
+.banner-three h2,
+.banner-three p{
+    margin-bottom: 10px;
+    width: 35%;
+    text-align: center;
 }
 .btn{
     cursor: pointer;
